@@ -1,0 +1,180 @@
+Epoch: 001/010 | Batch 0000/0391 | Cost: 2.6095
+Time elapsed: 0.04 min
+Epoch: 001/010 | Batch 0050/0391 | Cost: 1.7443
+Time elapsed: 0.22 min
+Epoch: 001/010 | Batch 0100/0391 | Cost: 1.4098
+Time elapsed: 0.41 min
+Epoch: 001/010 | Batch 0150/0391 | Cost: 1.5165
+Time elapsed: 0.59 min
+Epoch: 001/010 | Batch 0200/0391 | Cost: 1.3391
+Time elapsed: 0.76 min
+Epoch: 001/010 | Batch 0250/0391 | Cost: 1.4398
+Time elapsed: 0.95 min
+Epoch: 001/010 | Batch 0300/0391 | Cost: 1.3927
+Time elapsed: 1.13 min
+Epoch: 001/010 | Batch 0350/0391 | Cost: 1.1466
+Time elapsed: 1.31 min
+Epoch: 001/010 | Train: 45.226%
+------------------------------------
+Epoch: 002/010 | Batch 0000/0391 | Cost: 1.2775
+Time elapsed: 1.75 min
+Epoch: 002/010 | Batch 0050/0391 | Cost: 1.0809
+Time elapsed: 1.93 min
+Epoch: 002/010 | Batch 0100/0391 | Cost: 1.0645
+Time elapsed: 2.11 min
+Epoch: 002/010 | Batch 0150/0391 | Cost: 1.0068
+Time elapsed: 2.28 min
+Epoch: 002/010 | Batch 0200/0391 | Cost: 0.9139
+Time elapsed: 2.46 min
+Epoch: 002/010 | Batch 0250/0391 | Cost: 0.9895
+Time elapsed: 2.64 min
+Epoch: 002/010 | Batch 0300/0391 | Cost: 1.0740
+Time elapsed: 2.82 min
+Epoch: 002/010 | Batch 0350/0391 | Cost: 1.1751
+Time elapsed: 3.00 min
+Epoch: 002/010 | Train: 59.982%
+------------------------------------
+Epoch: 003/010 | Batch 0000/0391 | Cost: 0.8814
+Time elapsed: 3.45 min
+Epoch: 003/010 | Batch 0050/0391 | Cost: 0.9357
+Time elapsed: 3.62 min
+Epoch: 003/010 | Batch 0100/0391 | Cost: 0.5928
+Time elapsed: 3.80 min
+Epoch: 003/010 | Batch 0150/0391 | Cost: 0.8502
+Time elapsed: 3.98 min
+Epoch: 003/010 | Batch 0200/0391 | Cost: 0.8867
+Time elapsed: 4.16 min
+Epoch: 003/010 | Batch 0250/0391 | Cost: 0.8766
+Time elapsed: 4.34 min
+Epoch: 003/010 | Batch 0300/0391 | Cost: 0.7462
+Time elapsed: 4.52 min
+Epoch: 003/010 | Batch 0350/0391 | Cost: 0.8514
+Time elapsed: 4.69 min
+Epoch: 003/010 | Train: 63.522%
+------------------------------------
+Epoch: 004/010 | Batch 0000/0391 | Cost: 0.7258
+Time elapsed: 5.13 min
+Epoch: 004/010 | Batch 0050/0391 | Cost: 0.7771
+Time elapsed: 5.32 min
+Epoch: 004/010 | Batch 0100/0391 | Cost: 0.7378
+Time elapsed: 5.50 min
+Epoch: 004/010 | Batch 0150/0391 | Cost: 0.7275
+Time elapsed: 5.68 min
+Epoch: 004/010 | Batch 0200/0391 | Cost: 0.6776
+Time elapsed: 5.85 min
+Epoch: 004/010 | Batch 0250/0391 | Cost: 0.7090
+Time elapsed: 6.04 min
+Epoch: 004/010 | Batch 0300/0391 | Cost: 0.9199
+Time elapsed: 6.22 min
+Epoch: 004/010 | Batch 0350/0391 | Cost: 0.5825
+Time elapsed: 6.40 min
+Epoch: 004/010 | Train: 63.272%
+------------------------------------
+Epoch: 005/010 | Batch 0000/0391 | Cost: 0.7542
+Time elapsed: 6.83 min
+Epoch: 005/010 | Batch 0050/0391 | Cost: 0.6435
+Time elapsed: 7.01 min
+Epoch: 005/010 | Batch 0100/0391 | Cost: 0.4666
+Time elapsed: 7.19 min
+Epoch: 005/010 | Batch 0150/0391 | Cost: 0.6337
+Time elapsed: 7.38 min
+Epoch: 005/010 | Batch 0200/0391 | Cost: 0.6402
+Time elapsed: 7.56 min
+Epoch: 005/010 | Batch 0250/0391 | Cost: 0.6257
+Time elapsed: 7.74 min
+Epoch: 005/010 | Batch 0300/0391 | Cost: 0.5594
+Time elapsed: 7.92 min
+Epoch: 005/010 | Batch 0350/0391 | Cost: 0.5028
+Time elapsed: 8.09 min
+Epoch: 005/010 | Train: 77.942%
+------------------------------------
+Epoch: 006/010 | Batch 0000/0391 | Cost: 0.4083
+Time elapsed: 8.54 min
+Epoch: 006/010 | Batch 0050/0391 | Cost: 0.5054
+Time elapsed: 8.72 min
+Epoch: 006/010 | Batch 0100/0391 | Cost: 0.5572
+Time elapsed: 8.89 min
+Epoch: 006/010 | Batch 0150/0391 | Cost: 0.5369
+Time elapsed: 9.07 min
+Epoch: 006/010 | Batch 0200/0391 | Cost: 0.5705
+Time elapsed: 9.25 min
+Epoch: 006/010 | Batch 0250/0391 | Cost: 0.5396
+Time elapsed: 9.42 min
+Epoch: 006/010 | Batch 0300/0391 | Cost: 0.4360
+Time elapsed: 9.60 min
+Epoch: 006/010 | Batch 0350/0391 | Cost: 0.5033
+Time elapsed: 9.77 min
+Epoch: 006/010 | Train: 79.312%
+------------------------------------
+Epoch: 007/010 | Batch 0000/0391 | Cost: 0.5203
+Time elapsed: 10.21 min
+Epoch: 007/010 | Batch 0050/0391 | Cost: 0.3868
+Time elapsed: 10.39 min
+Epoch: 007/010 | Batch 0100/0391 | Cost: 0.3483
+Time elapsed: 10.56 min
+Epoch: 007/010 | Batch 0150/0391 | Cost: 0.4134
+Time elapsed: 10.74 min
+Epoch: 007/010 | Batch 0200/0391 | Cost: 0.5095
+Time elapsed: 10.91 min
+Epoch: 007/010 | Batch 0250/0391 | Cost: 0.6111
+Time elapsed: 11.09 min
+Epoch: 007/010 | Batch 0300/0391 | Cost: 0.4963
+Time elapsed: 11.27 min
+Epoch: 007/010 | Batch 0350/0391 | Cost: 0.6071
+Time elapsed: 11.45 min
+Epoch: 007/010 | Train: 84.302%
+------------------------------------
+Epoch: 008/010 | Batch 0000/0391 | Cost: 0.2727
+Time elapsed: 11.88 min
+Epoch: 008/010 | Batch 0050/0391 | Cost: 0.4264
+Time elapsed: 12.05 min
+Epoch: 008/010 | Batch 0100/0391 | Cost: 0.2923
+Time elapsed: 12.23 min
+Epoch: 008/010 | Batch 0150/0391 | Cost: 0.3915
+Time elapsed: 12.41 min
+Epoch: 008/010 | Batch 0200/0391 | Cost: 0.5186
+Time elapsed: 12.58 min
+Epoch: 008/010 | Batch 0250/0391 | Cost: 0.3812
+Time elapsed: 12.76 min
+Epoch: 008/010 | Batch 0300/0391 | Cost: 0.4138
+Time elapsed: 12.93 min
+Epoch: 008/010 | Batch 0350/0391 | Cost: 0.4541
+Time elapsed: 13.11 min
+Epoch: 008/010 | Train: 89.216%
+------------------------------------
+Epoch: 009/010 | Batch 0000/0391 | Cost: 0.2538
+Time elapsed: 13.54 min
+Epoch: 009/010 | Batch 0050/0391 | Cost: 0.2747
+Time elapsed: 13.72 min
+Epoch: 009/010 | Batch 0100/0391 | Cost: 0.2102
+Time elapsed: 13.89 min
+Epoch: 009/010 | Batch 0150/0391 | Cost: 0.4474
+Time elapsed: 14.07 min
+Epoch: 009/010 | Batch 0200/0391 | Cost: 0.3306
+Time elapsed: 14.25 min
+Epoch: 009/010 | Batch 0250/0391 | Cost: 0.2541
+Time elapsed: 14.43 min
+Epoch: 009/010 | Batch 0300/0391 | Cost: 0.2985
+Time elapsed: 14.60 min
+Epoch: 009/010 | Batch 0350/0391 | Cost: 0.3545
+Time elapsed: 14.78 min
+Epoch: 009/010 | Train: 90.266%
+------------------------------------
+Epoch: 010/010 | Batch 0000/0391 | Cost: 0.1623
+Time elapsed: 15.21 min
+Epoch: 010/010 | Batch 0050/0391 | Cost: 0.3856
+Time elapsed: 15.39 min
+Epoch: 010/010 | Batch 0100/0391 | Cost: 0.2613
+Time elapsed: 15.57 min
+Epoch: 010/010 | Batch 0150/0391 | Cost: 0.1643
+Time elapsed: 15.75 min
+Epoch: 010/010 | Batch 0200/0391 | Cost: 0.2433
+Time elapsed: 15.92 min
+Epoch: 010/010 | Batch 0250/0391 | Cost: 0.2753
+Time elapsed: 16.10 min
+Epoch: 010/010 | Batch 0300/0391 | Cost: 0.3121
+Time elapsed: 16.28 min
+Epoch: 010/010 | Batch 0350/0391 | Cost: 0.2259
+Time elapsed: 16.46 min
+Epoch: 010/010 | Train: 90.214%
+------------------------------------

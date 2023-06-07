@@ -1,0 +1,220 @@
+Epoch: 001/010 | Batch 0000/0469 | Cost: 2.7370
+Time elapsed: 0.04 min
+Epoch: 001/010 | Batch 0050/0469 | Cost: 2.0569
+Time elapsed: 0.25 min
+Epoch: 001/010 | Batch 0100/0469 | Cost: 0.8443
+Time elapsed: 0.44 min
+Epoch: 001/010 | Batch 0150/0469 | Cost: 0.3922
+Time elapsed: 0.64 min
+Epoch: 001/010 | Batch 0200/0469 | Cost: 0.1433
+Time elapsed: 0.84 min
+Epoch: 001/010 | Batch 0250/0469 | Cost: 0.2447
+Time elapsed: 1.04 min
+Epoch: 001/010 | Batch 0300/0469 | Cost: 0.1028
+Time elapsed: 1.24 min
+Epoch: 001/010 | Batch 0350/0469 | Cost: 0.0868
+Time elapsed: 1.44 min
+Epoch: 001/010 | Batch 0400/0469 | Cost: 0.1488
+Time elapsed: 1.64 min
+Epoch: 001/010 | Batch 0450/0469 | Cost: 0.3066
+Time elapsed: 1.83 min
+Epoch: 001/010 | Train: 97.732%
+------------------------------------
+Epoch: 002/010 | Batch 0000/0469 | Cost: 0.1442
+Time elapsed: 2.30 min
+Epoch: 002/010 | Batch 0050/0469 | Cost: 0.0681
+Time elapsed: 2.50 min
+Epoch: 002/010 | Batch 0100/0469 | Cost: 0.0702
+Time elapsed: 2.70 min
+Epoch: 002/010 | Batch 0150/0469 | Cost: 0.0257
+Time elapsed: 2.90 min
+Epoch: 002/010 | Batch 0200/0469 | Cost: 0.0961
+Time elapsed: 3.10 min
+Epoch: 002/010 | Batch 0250/0469 | Cost: 0.1364
+Time elapsed: 3.30 min
+Epoch: 002/010 | Batch 0300/0469 | Cost: 0.0389
+Time elapsed: 3.50 min
+Epoch: 002/010 | Batch 0350/0469 | Cost: 0.0238
+Time elapsed: 3.70 min
+Epoch: 002/010 | Batch 0400/0469 | Cost: 0.1142
+Time elapsed: 3.90 min
+Epoch: 002/010 | Batch 0450/0469 | Cost: 0.0350
+Time elapsed: 4.09 min
+Epoch: 002/010 | Train: 98.812%
+------------------------------------
+Epoch: 003/010 | Batch 0000/0469 | Cost: 0.0294
+Time elapsed: 4.56 min
+Epoch: 003/010 | Batch 0050/0469 | Cost: 0.0202
+Time elapsed: 4.75 min
+Epoch: 003/010 | Batch 0100/0469 | Cost: 0.2026
+Time elapsed: 4.95 min
+Epoch: 003/010 | Batch 0150/0469 | Cost: 0.0351
+Time elapsed: 5.15 min
+Epoch: 003/010 | Batch 0200/0469 | Cost: 0.0312
+Time elapsed: 5.35 min
+Epoch: 003/010 | Batch 0250/0469 | Cost: 0.1030
+Time elapsed: 5.55 min
+Epoch: 003/010 | Batch 0300/0469 | Cost: 0.0483
+Time elapsed: 5.76 min
+Epoch: 003/010 | Batch 0350/0469 | Cost: 0.0153
+Time elapsed: 5.96 min
+Epoch: 003/010 | Batch 0400/0469 | Cost: 0.0536
+Time elapsed: 6.17 min
+Epoch: 003/010 | Batch 0450/0469 | Cost: 0.0412
+Time elapsed: 6.37 min
+Epoch: 003/010 | Train: 98.717%
+------------------------------------
+Epoch: 004/010 | Batch 0000/0469 | Cost: 0.0488
+Time elapsed: 6.85 min
+Epoch: 004/010 | Batch 0050/0469 | Cost: 0.0272
+Time elapsed: 7.06 min
+Epoch: 004/010 | Batch 0100/0469 | Cost: 0.0014
+Time elapsed: 7.26 min
+Epoch: 004/010 | Batch 0150/0469 | Cost: 0.0289
+Time elapsed: 7.46 min
+Epoch: 004/010 | Batch 0200/0469 | Cost: 0.0011
+Time elapsed: 7.66 min
+Epoch: 004/010 | Batch 0250/0469 | Cost: 0.0157
+Time elapsed: 7.86 min
+Epoch: 004/010 | Batch 0300/0469 | Cost: 0.0435
+Time elapsed: 8.06 min
+Epoch: 004/010 | Batch 0350/0469 | Cost: 0.0681
+Time elapsed: 8.26 min
+Epoch: 004/010 | Batch 0400/0469 | Cost: 0.0305
+Time elapsed: 8.46 min
+Epoch: 004/010 | Batch 0450/0469 | Cost: 0.0020
+Time elapsed: 8.66 min
+Epoch: 004/010 | Train: 98.913%
+------------------------------------
+Epoch: 005/010 | Batch 0000/0469 | Cost: 0.0660
+Time elapsed: 9.14 min
+Epoch: 005/010 | Batch 0050/0469 | Cost: 0.0496
+Time elapsed: 9.34 min
+Epoch: 005/010 | Batch 0100/0469 | Cost: 0.0041
+Time elapsed: 9.54 min
+Epoch: 005/010 | Batch 0150/0469 | Cost: 0.1980
+Time elapsed: 9.74 min
+Epoch: 005/010 | Batch 0200/0469 | Cost: 0.1647
+Time elapsed: 9.94 min
+Epoch: 005/010 | Batch 0250/0469 | Cost: 0.0646
+Time elapsed: 10.15 min
+Epoch: 005/010 | Batch 0300/0469 | Cost: 0.0371
+Time elapsed: 10.35 min
+Epoch: 005/010 | Batch 0350/0469 | Cost: 0.0392
+Time elapsed: 10.55 min
+Epoch: 005/010 | Batch 0400/0469 | Cost: 0.0039
+Time elapsed: 10.75 min
+Epoch: 005/010 | Batch 0450/0469 | Cost: 0.0495
+Time elapsed: 10.95 min
+Epoch: 005/010 | Train: 99.013%
+------------------------------------
+Epoch: 006/010 | Batch 0000/0469 | Cost: 0.0032
+Time elapsed: 11.42 min
+Epoch: 006/010 | Batch 0050/0469 | Cost: 0.0581
+Time elapsed: 11.63 min
+Epoch: 006/010 | Batch 0100/0469 | Cost: 0.0270
+Time elapsed: 11.83 min
+Epoch: 006/010 | Batch 0150/0469 | Cost: 0.0050
+Time elapsed: 12.04 min
+Epoch: 006/010 | Batch 0200/0469 | Cost: 0.0402
+Time elapsed: 12.24 min
+Epoch: 006/010 | Batch 0250/0469 | Cost: 0.0206
+Time elapsed: 12.44 min
+Epoch: 006/010 | Batch 0300/0469 | Cost: 0.0214
+Time elapsed: 12.65 min
+Epoch: 006/010 | Batch 0350/0469 | Cost: 0.0383
+Time elapsed: 12.85 min
+Epoch: 006/010 | Batch 0400/0469 | Cost: 0.0188
+Time elapsed: 13.06 min
+Epoch: 006/010 | Batch 0450/0469 | Cost: 0.0593
+Time elapsed: 13.26 min
+Epoch: 006/010 | Train: 99.595%
+------------------------------------
+Epoch: 007/010 | Batch 0000/0469 | Cost: 0.0072
+Time elapsed: 13.73 min
+Epoch: 007/010 | Batch 0050/0469 | Cost: 0.0031
+Time elapsed: 13.94 min
+Epoch: 007/010 | Batch 0100/0469 | Cost: 0.0041
+Time elapsed: 14.14 min
+Epoch: 007/010 | Batch 0150/0469 | Cost: 0.0064
+Time elapsed: 14.34 min
+Epoch: 007/010 | Batch 0200/0469 | Cost: 0.0832
+Time elapsed: 14.54 min
+Epoch: 007/010 | Batch 0250/0469 | Cost: 0.3388
+Time elapsed: 14.75 min
+Epoch: 007/010 | Batch 0300/0469 | Cost: 0.1396
+Time elapsed: 14.95 min
+Epoch: 007/010 | Batch 0350/0469 | Cost: 0.0338
+Time elapsed: 15.15 min
+Epoch: 007/010 | Batch 0400/0469 | Cost: 0.0708
+Time elapsed: 15.35 min
+Epoch: 007/010 | Batch 0450/0469 | Cost: 0.0287
+Time elapsed: 15.56 min
+Epoch: 007/010 | Train: 99.255%
+------------------------------------
+Epoch: 008/010 | Batch 0000/0469 | Cost: 0.0484
+Time elapsed: 16.03 min
+Epoch: 008/010 | Batch 0050/0469 | Cost: 0.0083
+Time elapsed: 16.23 min
+Epoch: 008/010 | Batch 0100/0469 | Cost: 0.0013
+Time elapsed: 16.43 min
+Epoch: 008/010 | Batch 0150/0469 | Cost: 0.0039
+Time elapsed: 16.62 min
+Epoch: 008/010 | Batch 0200/0469 | Cost: 0.0547
+Time elapsed: 16.82 min
+Epoch: 008/010 | Batch 0250/0469 | Cost: 0.0040
+Time elapsed: 17.02 min
+Epoch: 008/010 | Batch 0300/0469 | Cost: 0.0622
+Time elapsed: 17.22 min
+Epoch: 008/010 | Batch 0350/0469 | Cost: 0.0033
+Time elapsed: 17.42 min
+Epoch: 008/010 | Batch 0400/0469 | Cost: 0.0041
+Time elapsed: 17.62 min
+Epoch: 008/010 | Batch 0450/0469 | Cost: 0.0082
+Time elapsed: 17.82 min
+Epoch: 008/010 | Train: 97.263%
+------------------------------------
+Epoch: 009/010 | Batch 0000/0469 | Cost: 0.0520
+Time elapsed: 18.29 min
+Epoch: 009/010 | Batch 0050/0469 | Cost: 0.0013
+Time elapsed: 18.50 min
+Epoch: 009/010 | Batch 0100/0469 | Cost: 0.0061
+Time elapsed: 18.70 min
+Epoch: 009/010 | Batch 0150/0469 | Cost: 0.0088
+Time elapsed: 18.90 min
+Epoch: 009/010 | Batch 0200/0469 | Cost: 0.0188
+Time elapsed: 19.10 min
+Epoch: 009/010 | Batch 0250/0469 | Cost: 0.0075
+Time elapsed: 19.31 min
+Epoch: 009/010 | Batch 0300/0469 | Cost: 0.0179
+Time elapsed: 19.51 min
+Epoch: 009/010 | Batch 0350/0469 | Cost: 0.0138
+Time elapsed: 19.71 min
+Epoch: 009/010 | Batch 0400/0469 | Cost: 0.1385
+Time elapsed: 19.91 min
+Epoch: 009/010 | Batch 0450/0469 | Cost: 0.0420
+Time elapsed: 20.11 min
+Epoch: 009/010 | Train: 99.663%
+------------------------------------
+Epoch: 010/010 | Batch 0000/0469 | Cost: 0.0163
+Time elapsed: 20.58 min
+Epoch: 010/010 | Batch 0050/0469 | Cost: 0.0005
+Time elapsed: 20.78 min
+Epoch: 010/010 | Batch 0100/0469 | Cost: 0.0218
+Time elapsed: 20.99 min
+Epoch: 010/010 | Batch 0150/0469 | Cost: 0.0181
+Time elapsed: 21.19 min
+Epoch: 010/010 | Batch 0200/0469 | Cost: 0.0361
+Time elapsed: 21.39 min
+Epoch: 010/010 | Batch 0250/0469 | Cost: 0.0028
+Time elapsed: 21.60 min
+Epoch: 010/010 | Batch 0300/0469 | Cost: 0.0004
+Time elapsed: 21.80 min
+Epoch: 010/010 | Batch 0350/0469 | Cost: 0.1000
+Time elapsed: 22.01 min
+Epoch: 010/010 | Batch 0400/0469 | Cost: 0.0020
+Time elapsed: 22.21 min
+Epoch: 010/010 | Batch 0450/0469 | Cost: 0.0121
+Time elapsed: 22.41 min
+Epoch: 010/010 | Train: 99.745%
+------------------------------------
